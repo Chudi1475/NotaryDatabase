@@ -30,19 +30,23 @@ User-Friendly Interface and Role-Based Permissions
 
 
 Usage
+
 	Register a new account. Or, log in with your existing credentials.
-	Manage notary appointments, clients, documents and other resources from your dashboard.
-	Leverage the platform's rich features to streamline your notary management processes. Improve collaboration and increase client satisfaction.
+	Manage notary appointments, clients, documents and other resources from your 		dashboard.
+	
+	Leverage the platform's rich features to streamline your notary management processes. 		Improve collaboration and increase client satisfaction.
+	
+	
 Contributing
-	Sky-hi-Tech Notary Management System is an open source project and we encourage contributions from the community. If you'd like to contribute, please follow these steps:
+	Sky-hi-Tech Notary Management System is an open source project and we encourage 	contributions from the community. If you'd like to contribute, please follow these 		steps:
 
 Fork the repository
 	Create a new branch (git checkout -b my-feature-branch)
 	Commit your changes (git commit -am 'Add new feature')
 	Push your changes to the branch (git push origin my-feature-branch)
 	Create a new pull request
-  Please make sure that your changes meet the project's coding standards and have passed all testing before submitting a pull request.
-Support
+  Please make sure that your changes meet the project's coding standards and have passed all 	testing before submitting a pull request.
+  Support
 
 Please open a bug or contact the project maintainers if you have any problems or questions regarding the Sky-hi-Tech Notary Management System. We'll provide ongoing support so you get the most out of your investment.
 
