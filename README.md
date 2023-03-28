@@ -1,52 +1,5 @@
-Sky-hi-Tech Notary Management System
+Our Sky-Hi-Tech Notary Management System is the perfect tool for managing your notary business. It's efficient, user-friendly, and secure, making it easy to track your notary appointments, transactions, and more. Plus, it's backed by our unparalleled customer service, so you can be sure you're always getting the support you need.
 
-Overview
-Sky-hi-Tech Notary Management System is a state-of-the-art, comprehensive platform for the management of all aspects of notary services, appointments, clients, documents and other related resources. Designed to streamline operations, enhance collaboration and improve the overall client experience for notaries, the system was developed by a dedicated team of 8-9 DMBS students.
+Sky-Hi-Tech Notary Management System is a cutting-edge platform that provides comprehensive management of all aspects of notary services. This system was developed by a dedicated team of 8-9 DMBS students, who aim to improve the client experience and streamline operations.
 
-Core Features
-Appointments and Client Management
-- Efficient management of notary appointments, clients and documents
-- Creation, updating, and deletion of appointments
-- Keep track of client information and related documents
-- Schedule appointments and manage cancellations
-Notary Certifications and Training
-- Track notary certifications, training, and continuing education requirements
-- Track performance measures and rate notaries based on objective criteria
-- Maintain records of notary certifications, issuing organizations, and expiring dates
-- Organize and manage training sessions. This includes managing capacity and attendees.
-Department Budgets and Expenses
-- Oversee department budgets and expenditures. Ensure optimal allocation of resources.
-- Monitor budget usage, allocation amounts, and remaining balances
-- Track spend by category, date, and amount
-- Assign budgets to individual departments. Track department-specific expenses.
-Communication Management
-- Enable notaries to communicate with clients in a seamless way
-- Support multiple channels of communication, including e-mail, phone, text messages, and face-to-face meetings
-- Maintain a record of the history of communications, messages, and current status
-User-Friendly Interface and Role-Based Permissions
-- Access an intuitive, easy-to-use interface tailored for notary professionals
-- Implement role-based permissions for administrators, notary publics, managers, and clients
-- Customize user roles and permissions in accordance with specific business needs
-
-
-Usage
-
-	Register a new account. Or, log in with your existing credentials.
-	Manage notary appointments, clients, documents and other resources from your 		dashboard.
-	
-	Leverage the platform's rich features to streamline your notary management processes. 		Improve collaboration and increase client satisfaction.
-	
-	
-Contributing
-	Sky-hi-Tech Notary Management System is an open source project and we encourage 	contributions from the community. If you'd like to contribute, please follow these 		steps:
-
-Fork the repository
-	Create a new branch (git checkout -b my-feature-branch)
-	Commit your changes (git commit -am 'Add new feature')
-	Push your changes to the branch (git push origin my-feature-branch)
-	Create a new pull request
-  Please make sure that your changes meet the project's coding standards and have passed all 	testing before submitting a pull request.
-  Support
-
-Please open a bug or contact the project maintainers if you have any problems or questions regarding the Sky-hi-Tech Notary Management System. We'll provide ongoing support so you get the most out of your investment.
-
+This notary software provides efficient management of appointments, client information, and document management. It allows notaries to communicate with clients in a seamless way, keep track of their certification and training requirements, and monitor their department budgets and expenses.
