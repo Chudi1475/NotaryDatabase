@@ -160,6 +160,15 @@ ALTER TABLE User_Performance
 ADD FOREIGN KEY (user_id) REFERENCES User (user_id);
 
 
+CREATE TABLE Appointment_Service (
+  appointment_service_id INT PRIMARY KEY,
+  appointment_id INT,
+  service_id INT,
+  FOREIGN KEY (appointment_id) REFERENCES Appointment(appointment_id),
+  FOREIGN KEY (service_id) REFERENCES Service(service_id)
+);
+
+
 
 
 
