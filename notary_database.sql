@@ -268,3 +268,11 @@ document_type_id INTEGER PRIMARY KEY NOT NULL,
 document_type_name VARCHAR(100) NOT NULL,
 document_type_description TEXT NULL
 );
+
+CREATE TABLE Source (
+  source_id INT PRIMARY KEY,
+  source_name VARCHAR(255) NOT NULL,
+  source_type ENUM('marketing', 'referral', 'other') NOT NULL,
+  description TEXT
+);
+
